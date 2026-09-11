@@ -40,8 +40,8 @@ Not "understand." **Do.** Every one of these is a checkpoint you must physically
   quality you can defend in an interview.
 - Build agents that use tools, recover from their own mistakes, and know when to stop.
 - Write an evaluation suite that runs in CI and blocks a bad prompt from reaching users.
-- Reason precisely about tokens, latency, and cost — and cut a system's bill by 10x
-  without cutting quality.
+- Reason precisely about tokens, latency, and cost — and cut a real system's bill by 5x
+  or more, knowing exactly which steps were free and which traded something away.
 - Debug a non-deterministic system, which is a genuinely different skill from debugging
   a deterministic one.
 - Explain, at a whiteboard, why your retrieval returns what it returns.

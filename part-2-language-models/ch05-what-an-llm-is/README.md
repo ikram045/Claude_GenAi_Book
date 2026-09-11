@@ -886,7 +886,7 @@ accuracy. You just measured the value of spending more forward passes on a probl
 
 ## 5.15 · Going deeper (optional)
 
-**[Appendix A · The Mathematics of Attention](../../appendices/)** — the actual equations,
+**[Appendix A · The Mathematics of Attention](../../appendices/A-attention-maths.md)** — the actual equations,
 with every symbol explained. Read it if you're curious; skip it without guilt. Nothing later
 in this book requires it.
 

@@ -590,7 +590,7 @@ obvious fix.
 
 ## 10.12 · Going deeper (optional)
 
-**[Appendix B · Vector Mathematics](../../appendices/)** — dot products, norms, cosine, and
+**[Appendix B · Vector Mathematics](../../appendices/B-vector-maths.md)** — dot products, norms, cosine, and
 why high-dimensional spaces behave counter-intuitively. Genuinely interesting, entirely
 optional.
 

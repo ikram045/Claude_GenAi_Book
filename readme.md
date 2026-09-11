@@ -166,9 +166,9 @@ Optional deep dives. Read when curious, never as a prerequisite.
 
 | | Title | Pairs with |
 |:---:|---|---|
-| A | [The Mathematics of Attention](appendices/) | Chapter 5 |
-| B | [Vector Mathematics](appendices/) | Chapter 10 |
-| C | [How Fine-Tuning Actually Works](appendices/) | Chapter 27 |
+| A | [The Mathematics of Attention](appendices/A-attention-maths.md) | Chapter 5 |
+| B | [Vector Mathematics](appendices/B-vector-maths.md) | Chapter 10 |
+| C | [How Fine-Tuning Actually Works](appendices/C-finetuning-maths.md) | Chapter 27 |
 
 ---
 
